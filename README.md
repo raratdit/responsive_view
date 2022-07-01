@@ -1,6 +1,7 @@
 # responsive_view
 
 A new Flutter project.
+with Custom View Mobile , Tablet and Web / Dekstop
 
 ## Getting Started
 
